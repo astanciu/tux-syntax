@@ -1,5 +1,5 @@
-# atom-alex-theme-syntax theme
+# tux-syntax theme
 
-A short description of your theme.
+A gray, muted, Atom syntax theme
 
 ![A screenshot of your theme](screenshot/screenshot.png)
