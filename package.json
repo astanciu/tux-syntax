@@ -1,7 +1,7 @@
 {
   "name": "tux-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A gray and muted Atom sytanx theme",
   "keywords": [
     "atom",
