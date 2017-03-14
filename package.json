@@ -1,0 +1,15 @@
+{
+  "name": "tux-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A gray and muted Atom sytanx theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/astanciu/tux-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
